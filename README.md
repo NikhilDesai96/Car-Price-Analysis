@@ -5,7 +5,7 @@ The goal of this project is to analyze car data and identify key factors affecti
 
 ## 📊 Sample Visualization
 
-![Car Analysis](car.png)
+![Car Analysis](Car.png)
 
 ---
 
