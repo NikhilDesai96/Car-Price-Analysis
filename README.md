@@ -3,6 +3,10 @@
 ## 📌 Objective
 The goal of this project is to analyze car data and identify key factors affecting the selling price.
 
+## 📊 Sample Visualization
+
+![Car Analysis](car.png)
+
 ---
 
 ## 🛠️ Tools & Technologies
