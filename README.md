@@ -1,5 +1,7 @@
 # 🚗 Car Price Analysis using Python
 
+This project performs exploratory data analysis on used car data to understand factors influencing selling price.
+
 ## 📌 Objective
 The goal of this project is to analyze car data and identify key factors affecting the selling price.
 
