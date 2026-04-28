@@ -10,6 +10,8 @@ The goal of this project is to analyze car data and identify key factors affecti
 ![Car Analysis](Car.png)
 
 ---
+## 📌 Dataset
+Dataset used in this project is available in this repository as `Car_details.csv`.
 
 ## 🛠️ Tools & Technologies
 - Python
