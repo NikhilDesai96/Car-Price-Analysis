@@ -36,6 +36,8 @@ Understanding car pricing helps buyers and sellers make better decisions and ens
 
 * Contains information about car price, fuel type, transmission, year, and kilometers driven
 
+  > Note: The dataset file is large and may not preview fully on GitHub. Please download it to view.
+
 ---
 
 ## 📊 Dataset Details
