@@ -1,48 +1,85 @@
-# 🚗 Car Price Analysis using Python
-
-This project performs exploratory data analysis on used car data to understand factors influencing selling price.
+# Car Price Analysis
 
 ## 📌 Objective
-The goal of this project is to analyze car data and identify key factors affecting the selling price.
 
-## 📊 Sample Visualization
-
-![Car Analysis](Car.png)
-
----
-## 📌 Dataset
-Dataset used in this project is available in this repository as `Car_details.csv`.
-
-## 🛠️ Tools & Technologies
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+Analyze car dataset to identify factors affecting car prices and market trends.
 
 ---
 
-## 🔄 Steps Performed
-- Data Cleaning (removed units like kmpl, CC, bhp)
-- Feature Engineering (created car age feature)
-- Encoding categorical variables
-- Exploratory Data Analysis (EDA)
+## 📌 Problem Statement
+
+Understand which factors (fuel type, transmission, age, etc.) influence car prices and how they impact resale value.
+
+---
+
+## ❓ Business Questions
+
+* What factors influence car prices?
+* How does fuel type affect pricing?
+* What is the impact of transmission type on price?
+* How does car age affect resale value?
+
+---
+
+## 🛠️ Tools Used
+
+* Python (Pandas, NumPy)
+* Matplotlib / Seaborn
+* Jupyter Notebook
+
+---
+
+## 📂 Dataset
+
+* Contains information about car price, fuel type, transmission, year, and kilometers driven
+
+---
+
+## 📊 Dataset Details
+
+* year: Manufacturing year
+* selling_price: Price of car
+* fuel: Fuel type (Petrol/Diesel/CNG)
+* transmission: Manual or Automatic
+* km_driven: Distance driven
+
+---
+
+## 🔍 Steps Performed
+
+* Data Cleaning and preprocessing
+* Handling missing values and duplicates
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+
+---
+
+## 📈 Analysis Performed
+
+* Checked data types and cleaned dataset
+* Handled missing values and duplicates
+* Compared price vs fuel type, transmission, and year
+* Identified patterns affecting car prices
+* Visualized trends using charts
 
 ---
 
 ## 📊 Key Insights
-- Newer cars have higher selling prices
-- Cars with lower kilometers driven have better resale value
-- Selling price decreases as car age increases
-- Most cars fall within the lower to mid price range
+
+* Fuel type impacts car pricing significantly
+* Automatic cars tend to be more expensive
+* Newer cars have higher resale value
+* Price decreases as car age increases
+* Diesel cars generally have higher resale value compared to petrol cars
 
 ---
 
-## 📁 Files in Repository
-- `Car Price Analysis using Python.ipynb`
-- `Car_details.csv`
+## 📈 Conclusion
+
+This project demonstrates how data analytics techniques can be used to analyze factors affecting car prices and derive meaningful insights for decision-making.
 
 ---
 
-## 👤 Author
-Nikhil Desai
+## 📊 Sample Visualization
+
+![Car Analysis](Car.png)
