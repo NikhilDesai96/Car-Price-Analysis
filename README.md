@@ -13,8 +13,8 @@ Understand which factors (fuel type, transmission, age, etc.) influence car pric
 ---
 ## 🎯 Business Impact  
 Understanding car pricing helps buyers and sellers make better decisions and ensures fair market value estimation.
----
 
+---
 ## ❓ Business Questions
 
 * What factors influence car prices?
