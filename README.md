@@ -11,6 +11,9 @@ Analyze car dataset to identify factors affecting car prices and market trends.
 Understand which factors (fuel type, transmission, age, etc.) influence car prices and how they impact resale value.
 
 ---
+## 🎯 Business Impact  
+Understanding car pricing helps buyers and sellers make better decisions and ensures fair market value estimation.
+---
 
 ## ❓ Business Questions
 
@@ -71,6 +74,7 @@ Understand which factors (fuel type, transmission, age, etc.) influence car pric
 * Newer cars have higher resale value
 * Price decreases as car age increases
 * Diesel cars generally have higher resale value compared to petrol cars
+* Cars with lower mileage (km driven) tend to have higher resale value
 
 ---
 
